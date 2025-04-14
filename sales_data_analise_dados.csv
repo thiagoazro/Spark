@@ -1,0 +1,201 @@
+sale_id,customer_id,product_name,product_category,sales_amount,sale_date,cost_price,quantity_sold,rating,promotion,feedback
+167,1,Laptop,Computacao,957,2/12/2022,742,1,3,True,O produto nao atendeu as minhas expectativas.
+152,1,Tablet,Computacao,828,3/22/2022,672,4,3,True,nao vale o preco
+122,1,Camera,Computacao,231,8/10/2022,922,1,4,False,
+117,1,Smartwatch,Computacao,305,9/16/2022,43,4,3,False,
+71,1,Camera,Dispositivos Moveis,452,11/27/2023,431,2,3,False,
+115,2,Smartphone,Acessorios,930,6/11/2022,610,4,2,False,
+138,2,Laptop,Dispositivos Moveis,582,11/2/2022,825,2,5,True,
+54,2,Smartwatch,Dispositivos Moveis,933,2/13/2023,913,4,1,False,Muito diferente da descricao
+67,2,Charger,Acessorios,113,10/14/2023,95,5,1,False,
+83,2,Tablet,Computacao,956,11/3/2023,938,1,5,True,
+146,3,Laptop,Acessorios,766,6/15/2022,829,2,4,True,
+166,3,Smartphone,Acessorios,362,8/23/2022,227,5,1,False,nao vale o preco
+170,3,Headphones,Acessorios,907,9/6/2022,828,3,1,True,
+80,3,Headphones,Acessorios,701,2/15/2023,690,3,1,False,O produto nao atendeu as minhas expectativas.
+91,4,Laptop,Computacao,902,3/21/2023,875,1,1,False,nao vale o preco.
+168,5,Headphones,Acessorios,559,8/28/2022,485,3,5,True,Muito diferente da descricao
+78,5,Smartphone,Dispositivos Moveis,816,7/16/2023,777,5,4,True,
+44,5,Smartphone,Dispositivos Moveis,640,8/11/2023,602,1,2,False,O produto nao atendeu as minhas expectativas.
+96,5,Camera,Dispositivos Moveis,188,10/6/2023,154,4,2,False,A qualidade nao e  tao boa quanto eu esperava.
+156,6,Smartphone,Computacao,443,7/3/2022,134,5,4,False,Chegou com defeito.
+141,6,Camera,Computacao,213,10/13/2022,384,2,5,False,
+86,6,Camera,Dispositivos Moveis,250,4/17/2023,226,4,5,False,A qualidade nao e  tao boa quanto eu esperava.
+20,6,Tablet,Computacao,884,6/11/2023,872,4,2,True,
+72,6,Smartwatch,Dispositivos Moveis,532,10/4/2023,499,4,1,False,Chegou com defeito.
+7,6,Tablet,Computacao,536,10/6/2023,521,5,2,True,A qualidade nao e tao boa quanto eu esperava.
+182,7,Charger,Acessorios,555,6/4/2022,85,1,1,True,
+104,7,Tablet,Dispositivos Moveis,482,6/22/2022,380,4,1,False,
+158,7,Tablet,Acessorios,516,9/30/2022,156,5,5,False,nao vale o preco
+42,7,Smartphone,Dispositivos Moveis,718,5/5/2023,672,3,5,False,
+79,7,Charger,Acessorios,844,6/7/2023,816,4,1,False,
+150,8,Camera,Dispositivos Moveis,453,4/16/2022,679,3,5,False,
+143,8,Smartphone,Dispositivos Moveis,479,12/13/2022,512,1,1,False,
+98,8,Camera,Dispositivos Moveis,354,11/26/2023,313,2,4,False,
+176,9,Camera,Dispositivos Moveis,127,12/26/2022,473,1,2,True,
+0,9,Smartwatch,Dispositivos Moveis,287,3/27/2023,245,4,1,False,O produto nao atendeu as minhas expectativas.
+110,10,Laptop,Computacao,665,4/5/2022,92,5,1,False,
+109,10,Laptop,Dispositivos Moveis,706,12/14/2022,821,1,5,False,
+64,10,Tablet,Computacao,603,6/20/2023,589,2,4,False,
+73,10,Laptop,Computacao,795,6/21/2023,755,5,5,False,
+25,10,Headphones,Acessorios,491,11/10/2023,447,2,4,False,
+125,11,Smartphone,Computacao,956,4/22/2022,905,3,2,False,
+97,11,Tablet,Computacao,682,8/16/2023,652,4,1,False,Muito diferente da descricao
+56,11,Smartwatch,Dispositivos Moveis,483,12/12/2023,436,4,3,False,
+93,12,Charger,Acessorios,137,10/11/2023,109,1,2,False,Chegou com defeito.
+148,13,Smartphone,Acessorios,961,1/30/2022,431,2,4,False,
+161,13,Charger,Acessorios,105,2/3/2022,526,5,1,False,
+183,13,Tablet,Computacao,124,4/3/2022,132,4,3,False,
+178,13,Headphones,Dispositivos Moveis,95,10/8/2022,735,1,5,True,
+14,13,Charger,Acessorios,574,4/10/2023,562,1,2,False,Chegou com defeito.
+69,13,Headphones,Acessorios,297,7/16/2023,249,4,5,True,
+102,14,Smartwatch,Dispositivos Moveis,286,1/1/2022,352,4,4,False,
+134,14,Laptop,Computacao,879,7/11/2022,697,4,4,False,
+181,14,Headphones,Acessorios,236,7/14/2022,107,1,2,False,
+197,14,Smartwatch,Dispositivos Moveis,778,8/21/2022,395,4,4,False,O produto nao atendeu as minhas expectativas.
+8,14,Charger,Acessorios,501,3/21/2023,478,1,2,False,
+77,14,Laptop,Computacao,991,8/21/2023,971,5,5,False,
+1,14,Smartwatch,Dispositivos Moveis,906,11/3/2023,889,1,4,True,
+16,14,Smartwatch,Dispositivos Moveis,190,11/3/2023,170,4,5,True,
+187,15,Tablet,Computacao,970,2/20/2022,950,3,3,True,
+133,15,Smartwatch,Computacao,658,4/13/2022,708,3,3,False,
+5,15,Tablet,Computacao,693,4/5/2023,675,4,2,True,Chegou com defeito.
+21,15,Headphones,Acessorios,710,7/24/2023,683,5,1,False,nao vale o preco
+63,15,Laptop,Computacao,886,8/21/2023,867,4,5,False,
+162,16,Headphones,Computacao,304,9/19/2022,275,5,4,True,Chegou com defeito.
+18,16,Camera,Dispositivos Moveis,580,4/13/2023,553,1,3,False,
+189,17,Charger,Dispositivos Moveis,115,1/5/2022,512,4,2,False,nao vale o preco.
+172,17,Laptop,Dispositivos Moveis,737,7/2/2022,285,2,1,True,
+145,17,Smartphone,Computacao,111,9/6/2022,868,5,5,True,
+107,18,Laptop,Computacao,198,10/15/2022,720,3,5,False,
+11,18,Smartwatch,Dispositivos Moveis,969,12/18/2023,945,5,2,False,Chegou com defeito.
+153,19,Headphones,Dispositivos Moveis,748,5/13/2022,551,2,2,True,
+76,19,Laptop,Computacao,769,7/4/2023,738,2,4,False,
+70,19,Tablet,Computacao,906,8/22/2023,877,5,5,False,
+186,20,Tablet,Acessorios,177,5/2/2022,242,3,4,True,Chegou com defeito.
+105,20,Smartphone,Acessorios,230,7/24/2022,343,2,4,False,
+123,20,Smartwatch,Computacao,939,9/8/2022,388,1,1,False,
+142,20,Smartphone,Computacao,273,12/1/2022,779,3,4,True,
+46,20,Tablet,Computacao,303,7/21/2023,258,1,2,False,Chegou com defeito.
+116,21,Camera,Acessorios,332,4/28/2022,658,3,5,False,
+126,21,Charger,Acessorios,416,9/12/2022,861,3,1,True,
+108,22,Smartwatch,Acessorios,751,2/3/2022,876,2,4,True,
+184,22,Tablet,Computacao,451,6/9/2022,788,1,4,False,O produto nao atendeu as minhas expectativas.
+52,22,Smartwatch,Dispositivos Moveis,260,3/12/2023,213,2,5,True,
+59,22,Headphones,Acessorios,965,4/27/2023,923,4,4,True,
+111,23,Smartwatch,Dispositivos Moveis,703,3/13/2022,482,5,5,False,
+191,23,Camera,Dispositivos Moveis,427,6/19/2022,379,5,2,True,
+114,23,Camera,Computacao,182,9/7/2022,91,1,2,False,
+118,23,Tablet,Dispositivos Moveis,190,11/2/2022,141,4,5,False,
+58,23,Smartphone,Dispositivos Moveis,440,4/1/2023,392,4,3,True,
+35,23,Smartwatch,Dispositivos Moveis,135,7/20/2023,114,5,2,False,nao vale o preco
+193,24,Tablet,Dispositivos Moveis,380,1/22/2022,650,3,1,True,
+128,24,Laptop,Dispositivos Moveis,900,7/26/2022,694,4,5,True,
+147,24,Smartwatch,Acessorios,538,12/1/2022,165,2,4,False,
+34,24,Smartphone,Dispositivos Moveis,184,4/1/2023,161,5,3,True,
+28,24,Charger,Acessorios,604,5/5/2023,579,4,2,False,
+151,25,Camera,Acessorios,100,2/20/2022,96,1,4,False,
+192,25,Smartphone,Computacao,575,11/13/2022,589,1,1,True,
+173,25,Laptop,Dispositivos Moveis,594,12/2/2022,114,1,1,True,nao vale o preco
+29,25,Smartphone,Dispositivos Moveis,803,1/14/2023,759,4,4,True,nao vale o preco
+130,26,Charger,Dispositivos Moveis,798,12/7/2022,408,1,1,True,
+13,26,Headphones,Acessorios,379,9/10/2023,357,3,5,False,
+132,27,Laptop,Dispositivos Moveis,239,3/16/2022,144,2,2,True,
+154,27,Laptop,Computacao,116,10/12/2022,789,5,2,True,
+101,28,Smartphone,Computacao,894,3/19/2022,188,5,5,False,
+196,28,Charger,Acessorios,177,5/13/2022,772,2,2,False,
+171,28,Smartphone,Acessorios,894,5/31/2022,899,4,4,True,nao vale o preco
+65,28,Smartphone,Dispositivos Moveis,829,4/14/2023,810,5,4,False,
+24,28,Headphones,Acessorios,386,6/21/2023,363,3,5,False,
+90,28,Camera,Dispositivos Moveis,722,7/16/2023,708,4,5,True,
+60,28,Laptop,Computacao,120,9/11/2023,73,3,4,True,
+120,29,Smartwatch,Computacao,551,2/23/2022,812,3,3,True,
+179,30,Charger,Dispositivos Moveis,250,7/14/2022,323,3,1,True,
+81,30,Smartphone,Dispositivos Moveis,91,2/24/2023,76,2,2,False,O produto nao atendeu as minhas expectativas.
+36,30,Headphones,Acessorios,184,3/7/2023,143,2,3,False,
+6,30,Headphones,Acessorios,840,8/17/2023,802,1,2,True,Chegou com defeito.
+94,31,Laptop,Computacao,154,2/20/2023,109,4,5,False,
+68,31,Smartwatch,Dispositivos Moveis,771,4/5/2023,740,3,5,True,
+40,31,Camera,Dispositivos Moveis,717,5/10/2023,680,1,3,False,
+45,31,Camera,Dispositivos Moveis,451,7/16/2023,440,3,2,True,Muito diferente da descricao
+47,31,Charger,Acessorios,925,8/11/2023,877,5,2,False,
+124,32,Smartphone,Acessorios,974,11/9/2022,85,5,2,True,
+19,32,Smartphone,Dispositivos Moveis,875,3/27/2023,851,4,5,False,
+22,32,Headphones,Acessorios,485,4/5/2023,456,4,3,True,
+50,32,Tablet,Computacao,684,4/17/2023,662,5,2,False,nao vale o preco
+74,32,Tablet,Computacao,834,6/21/2023,795,4,4,True,O produto nao atendeu as minhas expectativas.
+175,33,Tablet,Computacao,270,1/8/2022,694,4,5,False,
+48,33,Charger,Acessorios,117,4/5/2023,102,4,1,True,nao vale o preco
+49,33,Laptop,Computacao,586,4/5/2023,560,4,4,True,
+85,33,Laptop,Computacao,492,11/26/2023,466,5,5,True,
+160,34,Tablet,Dispositivos Moveis,361,3/10/2022,639,1,4,False,
+2,34,Camera,Dispositivos Moveis,429,1/14/2023,398,4,4,True,Chegou com defeito.
+43,34,Charger,Acessorios,757,1/14/2023,742,3,1,True,nao vale o preco
+41,34,Charger,Acessorios,79,6/20/2023,39,2,2,True,A qualidade nao e  tao boa quanto eu esperava.
+39,34,Charger,Acessorios,870,9/11/2023,822,1,1,False,Chegou com defeito.
+9,34,Smartwatch,Dispositivos Moveis,222,10/6/2023,212,5,2,False,A qualidade nao e  tao boa quanto eu esperava.
+112,35,Laptop,Dispositivos Moveis,498,2/8/2022,651,4,5,False,
+163,35,Smartphone,Dispositivos Moveis,355,2/22/2022,923,1,4,True,
+177,35,Camera,Acessorios,590,7/3/2022,124,5,4,True,Muito diferente da descricao
+61,35,Camera,Dispositivos Moveis,151,4/17/2023,139,2,2,False,O produto nao atendeu as minhas expectativas.
+3,35,Laptop,Computacao,350,6/11/2023,335,4,4,False,
+92,35,Smartphone,Dispositivos Moveis,881,6/11/2023,841,5,5,False,
+139,36,Smartwatch,Dispositivos Moveis,974,4/8/2022,642,5,3,True,
+26,36,Headphones,Acessorios,177,7/23/2023,155,4,4,True,
+99,36,Camera,Dispositivos Moveis,167,12/9/2023,147,1,4,True,
+121,37,Tablet,Dispositivos Moveis,177,8/24/2022,915,4,2,True,
+30,37,Smartphone,Dispositivos Moveis,760,4/5/2023,733,4,5,True,
+100,38,Smartwatch,Acessorios,737,3/26/2022,163,2,5,False,
+106,38,Laptop,Acessorios,132,9/17/2022,730,2,3,False,
+144,38,Charger,Computacao,718,11/4/2022,155,2,2,True,nao vale o preco
+185,39,Tablet,Acessorios,596,3/2/2022,491,5,5,True,
+165,39,Headphones,Acessorios,687,5/6/2022,310,2,1,True,
+113,39,Headphones,Acessorios,500,6/3/2022,302,2,2,False,
+53,39,Camera,Dispositivos Moveis,791,6/20/2023,768,5,5,False,
+195,40,Smartphone,Acessorios,685,1/1/2022,292,1,5,True,Chegou com defeito.
+4,40,Smartwatch,Dispositivos Moveis,581,4/27/2023,551,4,4,True,Chegou com defeito.
+55,40,Smartphone,Dispositivos Moveis,184,7/21/2023,167,1,4,True,
+131,41,Laptop,Acessorios,759,3/7/2022,674,1,1,False,
+169,41,Tablet,Acessorios,531,4/21/2022,619,1,4,False,Chegou com defeito.
+51,41,Tablet,Computacao,359,2/15/2023,325,4,5,False,
+37,41,Camera,Dispositivos Moveis,567,4/1/2023,554,4,4,True,
+95,41,Smartwatch,Dispositivos Moveis,964,4/1/2023,935,4,4,True,
+87,41,Tablet,Computacao,237,4/10/2023,188,5,5,False,
+82,41,Tablet,Computacao,451,5/5/2023,426,4,4,False,
+103,42,Smartwatch,Dispositivos Moveis,209,2/20/2022,608,2,4,False,
+66,42,Smartwatch,Dispositivos Moveis,983,5/6/2023,945,1,2,False,nao vale o preco.
+174,43,Charger,Acessorios,625,4/5/2022,192,5,2,True,
+119,43,Smartphone,Dispositivos Moveis,588,9/25/2022,234,2,5,False,
+137,43,Charger,Dispositivos Moveis,894,10/21/2022,869,4,1,False,
+127,43,Headphones,Dispositivos Moveis,784,10/30/2022,858,5,5,True,
+157,43,Smartwatch,Acessorios,641,11/26/2022,676,3,5,True,
+10,43,Smartwatch,Dispositivos Moveis,264,3/8/2023,237,1,4,False,
+32,43,Headphones,Acessorios,623,4/6/2023,608,2,5,False,
+75,43,Smartphone,Dispositivos Moveis,249,8/22/2023,216,5,5,False,
+198,44,Smartwatch,Dispositivos Moveis,194,1/12/2022,61,3,3,True,
+188,44,Charger,Dispositivos Moveis,823,10/4/2022,256,1,1,True,
+194,44,Smartwatch,Dispositivos Moveis,259,11/22/2022,327,4,1,True,
+17,44,Laptop,Computacao,759,7/24/2023,739,1,1,False,nao vale o preco
+38,45,Laptop,Computacao,141,1/13/2023,92,1,5,False,
+62,45,Tablet,Computacao,732,4/27/2023,707,5,5,True,
+190,46,Laptop,Computacao,358,4/2/2022,470,4,1,True,
+155,46,Smartphone,Computacao,308,5/18/2022,840,2,3,True,
+135,46,Headphones,Computacao,476,9/9/2022,695,5,2,True,
+159,46,Headphones,Dispositivos Moveis,854,12/6/2022,598,4,2,True,
+15,46,Camera,Dispositivos Moveis,986,5/10/2023,961,2,1,False,Muito diferente da descricao
+23,46,Smartphone,Dispositivos Moveis,598,10/14/2023,577,2,4,False,
+180,47,Smartwatch,Computacao,298,12/18/2022,258,1,5,True,
+88,47,Charger,Acessorios,911,1/9/2023,886,4,1,False,A qualidade nao e  tao boa quanto eu esperava.
+31,47,Smartphone,Dispositivos Moveis,587,4/16/2023,546,2,5,False,
+57,47,Tablet,Computacao,446,8/7/2023,430,3,3,True,
+129,48,Tablet,Dispositivos Moveis,241,8/17/2022,307,3,5,True,
+33,48,Laptop,Computacao,889,7/23/2023,863,5,1,False,Chegou com defeito.
+89,48,Smartphone,Dispositivos Moveis,267,11/28/2023,257,4,2,True,Muito diferente da descricao
+164,49,Smartphone,Acessorios,876,7/24/2022,935,4,5,True,A qualidade nao e  tao boa quanto eu esperava.
+149,49,Smartphone,Acessorios,548,9/4/2022,946,2,3,False,
+12,49,Headphones,Acessorios,144,8/17/2023,103,3,3,False,
+136,50,Smartphone,Acessorios,355,8/14/2022,158,5,5,True,
+140,50,Headphones,Acessorios,470,12/4/2022,96,3,5,False,
+27,50,Laptop,Computacao,888,3/7/2023,857,4,5,False,
+84,50,Charger,Acessorios,948,6/19/2023,937,2,2,True,nao vale o preco.
+199,62,Smartwatch,Acessorios,269,12/12/2022,800,2,4,True,
